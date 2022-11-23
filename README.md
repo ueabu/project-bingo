@@ -1,5 +1,5 @@
 # project-bingo
-Project is an app that shows the nearest dog park around a user.
+Project-bingo is an app that shows the nearest cats park around a user.
 
 It uses the google maps api to show the parks.
 
